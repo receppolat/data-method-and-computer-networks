@@ -1,0 +1,20 @@
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\bin\Debug\HataSezmeVeDuzeltme.exe.config
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\bin\Debug\HataSezmeVeDuzeltme.exe
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\bin\Debug\HataSezmeVeDuzeltme.pdb
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.csprojAssemblyReference.cache
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.Form1.resources
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.Properties.Resources.resources
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.csproj.GenerateResource.cache
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.exe
+C:\Users\DESKTOP\source\repos\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.pdb
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\bin\Debug\HataSezmeVeDuzeltme.exe.config
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\bin\Debug\HataSezmeVeDuzeltme.exe
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\bin\Debug\HataSezmeVeDuzeltme.pdb
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.Form1.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.Properties.Resources.resources
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.csproj.GenerateResource.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.exe
+C:\Users\DESKTOP\Desktop\Kastamonu Üniversitesi\Dönemler\2.Sınıf 2.Dönem\Ödevler\VİBA\ÖDEV 4\HataSezmeVeDuzeltme\HataSezmeVeDuzeltme\obj\Debug\HataSezmeVeDuzeltme.pdb
